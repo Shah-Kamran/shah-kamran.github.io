@@ -19,8 +19,6 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-disqus: "https-shah-kamran-github-io"
-google_analytics: "UA-123456789-1"
 
 # Authors
 authors:
